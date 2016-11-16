@@ -1,0 +1,13 @@
+<h2>Dear <f_name> <l_name></h2>
+Thank you for completing order on our website <a href="<company_url>"><store_name></a>.
+You've used the Guest checkout option and we created special guest account for you.
+You can use your email as login and generated password to sign in on the site in any
+time.
+<dl>
+   <dt>Login:</dt>
+   <dd><login></dd>
+   <dt>Password:</dt>
+   <dd><password></dd>
+</dl>
+Feel free to visit <a href="http://<company_url>/my-account.aspx">your account</a>
+on our site.

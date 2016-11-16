@@ -1,0 +1,19 @@
+<p>Dear <f_name> <l_name>,</p>
+<p>I am following up with you to ensure that you have received Quote # <order_ID>.</p>
+
+<p><store_name> is committed to providing you the most accurate and competitive quotations.</p>
+
+<p>It is our responsibility to make sure that we do our best to partner with you, to work as a team, making you successful with obtaining the award.</p>
+
+<p>Please review your quote and let me know if you have any questions, or if you require:</p>
+
+<ul><li>Revisions</li>
+<li>Lay out drawings</li>
+<li>Job specific drawings</li>
+<li>Submittal data</li>
+<li>Value engineering</li>
+</ul>
+
+<p>Please advise us immediately if you receive a competitive quotation that is lower. We would sincerely appreciate the opportunity to review our quotation to provide you the best price we are able to and address any additional concerns you may have regarding product details, shipping options, or special accommodations needed. </p>
+
+<p>Thank you for interest and future business with us!</p>

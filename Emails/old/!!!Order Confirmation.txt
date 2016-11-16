@@ -1,0 +1,99 @@
+<h3>Thank You for shopping with <store_name>.</h3>
+
+<p>Charges will appear on your credit card bill or bank statement under the name <merchant_company_name>
+Your Order is now complete. Below is all of your Billing and Shipping Information.</p>
+
+<h2>Your Billing Information</h2>
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+		<tr><td>Name:</td><td><f_name>  <l_name></td></tr>
+		<tr><td>Company:</td><td><company></td></tr>
+		<tr><td>Address 1:</td><td><address1></td></tr>
+		<tr><td>Address 2:</td><td><address2></td></tr>
+		<tr><td>City:</td><td><city></td></tr>
+		<tr><td>State/Province/Region:</td><td><state></td></tr>
+		<tr><td>Zip/Postal Code:</td><td><zip></td></tr>
+		<tr><td>Country:</td><td><country></td></tr>
+		<tr><td>Phone:</td><td><phone></td></tr>
+		<tr><td>Alt. Phone:</td><td><alt_phone></td></tr>
+		<tr><td>Fax:</td><td><fax></td></tr>
+	</tbody>
+</table>
+
+<h2>Your Shipping Information</h2>
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+		<tr><td>Name:</td><td><ship_f_name>  <ship_l_name></td></tr>
+		<tr><td>Company:</td><td><ship_company></td></tr>
+		<tr><td>Address 1:</td><td><ship_address1></td></tr>
+		<tr><td>Address 2:</td><td><ship_address2></td></tr>
+		<tr><td>City:</td><td><ship_city></td></tr>
+		<tr><td>State/Province/Region:</td><td><ship_state></td></tr>
+		<tr><td>Zip/Postal Code:</td><td><ship_zip></td></tr>
+		<tr><td>Country:</td><td><ship_country></td></tr>
+		<tr><td>Phone:</td><td><ship_phone></td></tr>
+		<tr><td>Alt. Phone:</td><td><ship_alt_phone></td></tr>
+		<tr><td>Fax:</td><td><ship_fax></td></tr>
+	</tbody>
+</table>
+
+<h2>Personal Information</h2>
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+		<tr><td>Email:</td><td><email></td></tr>
+		<tr><td>PO Number:</td><td><po></td></tr>
+	</tbody>
+</table>
+
+<h2>Your Payment Information</h2>
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+		<tr><td>Your Purchase ID:</td><td><company_code>-<total_ID></td></tr>
+		<payment_desc>
+		<tr><td>Sub Total:</td><td><sub_total></td></tr>
+		<tr><td>Handling Fee:</td><td><handling_fee></td></tr>
+		<tr><td>Shipping Charges:</td><td><shipping></td></tr>
+		<tr><td>Tax:</td><td><tax></td></tr>
+		<tr><td>Total:</td><td><total></td></tr>
+	</tbody>
+</table>
+
+<h2>Order Details</h2>
+<products_list>
+
+<p>Please Click on the link below to view your order: <a href="http://<store_url>/receipt.aspx?ID=<shopping_cart_ID>">http://<store_url>/receipt.aspx?ID=<shopping_cart_ID></a></p>
+<p>NOTE: If you can't see the link above, please copy/paste the url address listed above into your browser window to view your complete order.</p>
+<p>
+	<b>Thank you,</b><br/>
+	<store_name><br/>
+	<a href="http://<store_url>/"><store_url></a>
+</p>
+<p>Have Questions? Give our friendly staff a call!</p>
+
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+		<tr><td>Local:</td><td><company_local_num></td></tr>
+		<tr><td>Fax:</td><td><company_fax_num></td></tr>
+		<tr><td>Email:</td><td><company_sales_email></td></tr>
+	</tbody>
+</table>

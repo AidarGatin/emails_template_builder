@@ -1,0 +1,44 @@
+Dear <f_name> <l_name>,
+
+Please contact us concerning your order you placed on <order_date>, in the amount of <order_grand_total>.
+
+The billing information you used when placing your order is incorrect.  The expiration date you provided is not valid or expired.
+
+Information regarding your order is provided below:
+
+ORDER NUMBER: <order_ID>
+ORDER WEIGHT: <order_weight>
+PURCHASE GRAND TOTAL: <order_grand_total>.
+
+BILLING INFORMATION:
+<f_name> <l_name>
+<company>
+<address1>     <address2>
+<city>, <state> <zip>
+<country>
+
+SHIPPING INFORMATION:
+<ship_f_name> <ship_l_name>
+<ship_company>
+<ship_address1>     <ship_address2>
+<ship_city>, <ship_state> <ship_zip>
+<ship_country>
+
+CONTACT INFORMATION:
+Main Phone: <phone>
+Alt Phone: <alt_phone>
+Fax: <fax>
+Email: <email>
+
+
+SHIPPING TYPE: <order_shipping_type>.
+
+When you call, please reference order number: <order_ID>.
+
+It's imperative that you call us regarding your order, in order for your request to be fulfilled.  Thank you for your cooperation in this matter.
+
+You can view your order details and receipt by clicking on the link below:
+http://<store_url>/receipt.aspx?ID=<shopping_cart_ID>
+
+You may also view your order status information by clicking the link below:
+http://<store_url>/order-status.html

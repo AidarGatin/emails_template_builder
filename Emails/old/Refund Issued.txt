@@ -1,0 +1,5 @@
+Dear <f_name> <l_name>,
+
+Please be advised that refund for you order # <order_ID> in the amount of $x.xx was issued to your original method of payment.
+
+If you have any questions please contact one of our customer service representatives

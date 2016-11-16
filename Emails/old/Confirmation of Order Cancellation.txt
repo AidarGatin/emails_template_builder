@@ -1,0 +1,44 @@
+Dear <f_name> <l_name>,
+
+
+***INSERT DETAILS ON TERMS HERE - DEPENDS ON SITUATION***
+
+
+
+
+As per our discussion or at your request, we have canceled your order.  We regret your decision to cancel your order, but hope that you will continue doing business with us in the future.
+
+This email is to confirm the cancellation has taken place.
+
+Information regarding your order is provided below:
+
+ORDER NUMBER: <order_ID>
+PURCHASE GRAND TOTAL: <order_grand_total>.
+
+BILLING INFORMATION:
+<f_name> <l_name>
+<company>
+<address1>     <address2>
+<city>, <state> <zip>
+<country>
+
+SHIPPING INFORMATION:
+<ship_f_name> <ship_l_name>
+<ship_company>
+<ship_address1>     <ship_address2>
+<ship_city>, <ship_state> <ship_zip>
+<ship_country>
+
+CONTACT INFORMATION:
+Main Phone: <phone>
+Alt Phone: <alt_phone>
+Fax: <fax>
+Email: <email>
+
+SHIPPING TYPE: <order_shipping_type>.
+
+You can view your order details and receipt by clicking on the link below:
+http://<store_url>/receipt.aspx?ID=<shopping_cart_ID>
+
+You may also view your order status information by clicking the link below:
+http://<store_url>/order-status.html

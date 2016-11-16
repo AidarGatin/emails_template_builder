@@ -1,0 +1,15 @@
+<h3>Dear friend</h3>
+<p>Our customer <from_name> (<from_address>) suggested that you may be interested in our product
+<a href="<product_link>"><product_name></a></p>
+
+<img src="http://<store_url>/tools/image-resize.aspx?image=<product_image>&width=600" />
+
+<h4>Description</h4>
+<p><product_description></p>
+
+<h4>Additional message from customer</h4>
+<p><message></p>
+
+<hr/>
+Please feel free to visit our site in any time.
+With best regards and wishes, <store_name>.

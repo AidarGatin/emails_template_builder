@@ -1,0 +1,59 @@
+<h3>Thank You for shopping with <store_name>.</h3>
+
+<p>Your Quote Request has been submitted. You will receive a reply within 24 hours. If you need to modify your quote please call <company_local_num></p>
+
+<h2>Personal Information</h2>
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+		<tr><td>Email:</td><td>{email}</td></tr>
+		<tr><td>Name:</td><td>{name}</td></tr>
+		<tr><td>Company Name</td><td>{company_name}</td></tr>
+		<tr><td>Ship To Zip Code:</td><td>{zip_code}</td></tr>
+		<tr><td>Contact Phone:</td><td>{phone}</td></tr>
+	</tbody>
+</table>
+
+<h2>Order Details</h2>
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+{%}
+		<tr><td>Product Manuf Code:</td><td>{manuf_code}</td></tr>
+		<tr><td>Product Name:</td><td>{product_name}</td></tr>
+		<tr><td>Quantity:</td><td>{qty}</td></tr>
+		<tr><td>Color:</td><td>{color}</td></tr>
+		<tr><td>Width:</td><td>{width}</td></tr>
+		<tr><td>Height:</td><td>{height}</td></tr>
+		<tr><td>Length:</td><td>{length}</td></tr>
+{%}
+	</tbody>
+</table>
+
+<h2>Order Comments</h2>
+<p>{comments}</p>
+
+<p>
+	<b>Thank you,</b><br/>
+	<store_name><br/>
+	<a href="http://<store_url>/"><store_url></a>
+</p>
+<p>Have Questions? Give our friendly staff a call!</p>
+
+<table>
+	<tbody>
+		<colgroup>
+			<col style="text-align: right; font-weight: bold;background-color: #F2F2F2;" />
+			<col style="text-align: left;">
+		</colgroup>
+		<tr><td>Local:</td><td><company_local_num></td></tr>
+		<tr><td>Fax:</td><td><company_fax_num></td></tr>
+		<tr><td>Email:</td><td><company_sales_email></td></tr>
+	</tbody>
+</table>

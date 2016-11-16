@@ -1,0 +1,41 @@
+Dear <f_name> <l_name>,
+
+This email is to confirm that your order has shipped.
+Your package was shipped on: <date_shipped>, using Federal Express Services.
+You may track your package using the link provided below:
+http://www.fedex.com/Tracking?action=track&tracknumbers=<tracking_number>
+
+We really appreciate hearing your opinions. Please take a moment of your time to leave us feedback. If for some reason you are not satisfied, we would be glad to assist you in any way possible to make you happy. Thank you for your business!
+
+Information regarding your order is provided below:
+
+ORDER NUMBER: <order_ID>
+PURCHASE GRAND TOTAL: <order_grand_total>.
+
+BILLING INFORMATION:
+<f_name> <l_name>
+<company>
+<address1>     <address2>
+<city>, <state> <zip>
+<country>
+
+SHIPPING INFORMATION:
+<ship_f_name> <ship_l_name>
+<ship_company>
+<ship_address1>     <ship_address2>
+<ship_city>, <ship_state> <ship_zip>
+<ship_country>
+
+CONTACT INFORMATION:
+Main Phone: <phone>
+Alt Phone: <alt_phone>
+Fax: <fax>
+Email: <email>
+
+SHIPPING TYPE: <order_shipping_type>.
+
+You can view your order details and receipt by clicking on the link below:
+http://<store_url>/receipt.aspx?ID=<shopping_cart_ID>
+
+You may also view your order status information by clicking the link below:
+http://<store_url>/order-status.html

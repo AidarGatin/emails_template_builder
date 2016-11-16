@@ -1,0 +1,46 @@
+Dear <f_name> <l_name>,
+
+We are contacting you about the order you placed with us on <order_date> in the amount of <order_grand_total>.  I am sorry to inform you that the item(s) you have selected are on back-order, discontinued or are no longer available.
+WE DO APPOLOGIZE FOR THE INCONVENIENCE.
+
+We have Canceled your order.
+
+It is possible that a similar product might be available.  Please contact our staff for additional information.  Thank you again and we are sorry for the inconvenience.
+
+We can be reached by phone during normal business hours at: 1-305-851-2811
+MONDAY-Thursday   10AM to 6PM Eastern Time
+SATURDAY          CLOSED
+SUNDAY            CLOSED
+
+
+Information regarding your order is provided below:
+
+ORDER NUMBER: <order_ID>
+
+BILLING INFORMATION:
+<f_name> <l_name>
+<company>
+<address1>     <address2>
+<city>, <state> <zip>
+<country>
+
+SHIPPING INFORMATION:
+<ship_f_name> <ship_l_name>
+<ship_company>
+<ship_address1>     <ship_address2>
+<ship_city>, <ship_state> <ship_zip>
+<ship_country>
+
+CONTACT INFORMATION:
+Main Phone: <phone>
+Alt Phone: <alt_phone>
+Fax: <fax>
+Email: <email>
+
+SHIPPING TYPE: <order_shipping_type>.
+
+You can view your order details and receipt by clicking on the link below:
+http://<store_url>/receipt.aspx?ID=<shopping_cart_ID>
+
+You may also view your order status information by clicking the link below:
+http://<store_url>/order-status.html

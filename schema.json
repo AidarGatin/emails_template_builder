@@ -1,0 +1,682 @@
+[
+  {
+    "templateName": "BO_Account_Created",
+    "htmlschema":{
+      "headerText": "Congrats -- you've been adopted into the DK Hardware family!",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "",
+      "topMessage": "BO_Account_Created_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "topMenu",
+      "gap2": "&nbsp;",
+      "body": "",
+      "bottomBody": "hot_categories",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Guest_Account_Created",
+    "htmlschema":{
+      "headerText": "Congrats -- you've been adopted into the DK Hardware family!",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "",
+      "topMessage": "BO_Guest_Account_Created_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "",
+      "gap2": "&nbsp;",
+      "body": "",
+      "bottomBody": "",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Account_Password_recovery",
+    "htmlschema":{
+      "headerText": "Reset your password for {store_name}",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap1": "&nbsp;",
+      "topMessage": "BO_Account_Password_recovery_topMessage",
+      "gap2": "&nbsp;",
+      "topBody": "call_us",
+      "gap3": "&nbsp;",
+      "body": "",
+      "bottomBody": "",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Account_Password_forgotten",
+    "htmlschema":{
+      "headerText": "Your credentials for {store_name} enclosed!",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap1": "&nbsp;",
+      "topMessage": "BO_Account_Password_forgotten_topMessage",
+      "gap2": "&nbsp;",
+      "gap3": "&nbsp;",
+      "topBody": "",
+      "body": "",
+      "bottomBody": "",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_General_Contact_Request",
+    "htmlschema":{
+      "headerText": "We have a question about your order -- we need to hear from you!",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "",
+      "topMessage": "BO_General_Contact_Request_topMessage",
+      "topBody": "order_details",
+      "body": "call_us",
+      "bottomBody": "",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Phone_no_unreachable",
+    "htmlschema":{
+      "headerText": "We have a question about your order -- we need to hear from you!",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap1": "&nbsp;",
+      "topMessage": "BO_Phone_no_unreachable_topMessage",
+      "topBody": "shipping_info",
+      "gap2": "&nbsp;",
+      "body": "payment_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "order_details",
+      "gap4": "&nbsp;",
+      "topFooter": "call_us",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Billing_CC_Problem",
+    "htmlschema":{
+      "headerText": "Ruh-roh... we're having a problem processing your payment.",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap1": "&nbsp;",
+      "topMessage": "BO_Billing_CC_Problem_topmessage",
+      "gap2": "&nbsp;",
+      "topBody": "payment_info",
+      "gap3": "&nbsp;",
+      "body": "shipping_info",
+      "bottomBody": "order_details",
+      "callUs": "call_us",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Update_Billing_information",
+    "htmlschema":{
+      "headerText": "Just wanted to confirm updates to your billing info...",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap1": "&nbsp;",
+      "topMessage": "BO_Update_Billing_information_topmessage",
+      "gap2": "&nbsp;",
+      "topBody": "billing_info",
+      "gap3": "&nbsp;",
+      "body": "payment_info",
+      "bottomBody": "order_details",
+      "callUs": "call_us",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Billing_CC_Declined",
+    "htmlschema":{
+      "headerText": "Ruh-roh... we're having a problem processing your payment.",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap1": "&nbsp;",
+      "topMessage": "BO_Billing_CC_Declined_topmessage",
+      "gap2": "&nbsp;",
+      "topBody": "payment_info",
+      "gap3": "&nbsp;",
+      "body": "shipping_info",
+      "bottomBody": "order_details",
+      "callUs": "call_us",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Billing_Paypal_Payment_Not_Received",
+    "htmlschema":{
+      "headerText": "Ruh-roh... we're having a problem processing your payment.",
+      "topHeader": "",
+      "header": "logo",
+      "gap": "&nbsp;",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap1": "&nbsp;",
+      "topMessage": "BO_Billing_Paypal_Payment_Not_Received_topmessage",
+      "gap2": "&nbsp;",
+      "topBody": "order_details",
+      "gap3": "&nbsp;",
+      "body": "payment_info",
+      "gap4": "&nbsp;",
+      "bottomBody": "shipping_info",
+      "gap5": "&nbsp;",
+      "callUs": "call_us",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Order_Confirmation",
+    "htmlschema": {
+      "headerText": "Woo-hoo -- we got your order!",
+      "topHeader": "logo",
+      "gap": "&nbsp;",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "",
+      "topMessage": "BO_Order_Confirmation_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "order_details",
+      "body": "receipt_link",
+      "gap2": "&nbsp;",
+      "shippingInfo": "shipping_info",
+      "gap3": "&nbsp;",
+      "paymentInfo": "payment_info",
+      "gap4": "&nbsp;",
+      "bottomBody": "call_us",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Order_invoice",
+    "htmlschema": {
+      "headerText": "Hey...Your invoice attached...",
+      "topHeader": "logo",
+      "gap": "&nbsp;",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "",
+      "topMessage": "BO_Order_invoice_topMessage",
+      "topBody": "order_details",
+      "gap2": "&nbsp;",
+      "body": "receipt_link",
+      "gap3": "&nbsp;",
+      "shippingInfo": "shipping_info",
+      "gap4": "&nbsp;",
+      "paymentInfo": "payment_info",
+      "gap5": "&nbsp;",
+      "bottomBody": "call_us",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Order_Changed",
+    "htmlschema": {
+      "headerText": "Just wanted to confirm the changes you requested to your order...",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Order_Changed_topMessage",
+      "topBody": "shipping_info",
+      "gap1": "&nbsp;",
+      "body": "payment_info",
+      "bottomBody": "call_us",
+      "hotCategories": "hot_categories",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Order_Cancellation_Customer_Request",
+    "htmlschema": {
+      "headerText": "Order canceled -- is there anything we can do to help?",
+      "topHeader": "logo",
+      "gap": "&nbsp;",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "",
+      "topMessage": "BO_Order_Cancellation_Customer_Request_topMessage",
+      "topBody": "",
+      "gap1": "&nbsp;",
+      "gap2": "&nbsp;",
+      "gap3": "&nbsp;",
+      "body": "",
+      "shippingInfo": "",
+      "paymentInfo": "",
+      "bottomBody": "call_us",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Out_of_Stock_Discontinued_cancellation",
+    "htmlschema": {
+      "headerText": "Oh, no -- you ordered a discontinued item!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Out_of_Stock_Discontinued_cancellation_topMessage",
+      "topBody": "order_details",
+      "gap1": "&nbsp;",
+      "body": "call_us",
+      "gap2": "&nbsp;",
+      "bottomBody": "",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Cutting_info_needed",
+    "htmlschema": {
+      "headerText": "Just wanted to confirm the changes you requested to your order...",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Cutting_info_needed_topMessage",
+      "topBody": "order_details",
+      "gap1": "&nbsp;",
+      "body": "shipping_info",
+      "gap2": "&nbsp;",
+      "bottomBody": "payment_info",
+      "hotCategories": "call_us",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Refund_issued",
+    "htmlschema": {
+      "headerText": "We just issued a refund (cha-ching!)",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Refund_issued_topMessage",
+      "topBody": "payment_info",
+      "gap1": "&nbsp;",
+      "body": "order_details",
+      "gap2": "&nbsp;",
+      "bottomBody": "receipt_link",
+      "hotCategories": "call_us",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Tech_Support_issued_RMA_return_info",
+    "htmlschema": {
+      "headerText": "RMA and return instructions enclosed!",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Tech_Support_issued_RMA_return_info_topMessage",
+      "topBody": "",
+      "body": "",
+      "gap2": "&nbsp;",
+      "bottomBody": "",
+      "hotCategories": "call_us",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Web_Quote_inquiry",
+    "htmlschema": {
+      "headerText": "Woo-hoo -- we got your quote request!",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Web_Quote_inquiry_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "quote_personal_info",
+      "gap2": "&nbsp;",
+      "body": "quote_order_details",
+      "gap3": "&nbsp;",
+      "bottomBody": "",
+      "hotCategories": "call_us",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+
+  {
+    "templateName": "BO_Web_Quote_follow_up",
+    "htmlschema": {
+      "headerText": "Woo-hoo -- we got your quote request!",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Web_Quote_follow_up_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "rep_contacts",
+      "gap2": "&nbsp;",
+      "body": "",
+      "bottomBody": "helpYelp",
+      "gap3": "&nbsp;",
+      "hotCategories": "hot_categories",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+
+  {
+    "templateName": "BO_Update_Shipping_info",
+    "htmlschema": {
+      "headerText": "Just wanted to confirm updates to your shipping info...",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Update_Shipping_info_topMessage",
+      "topBody": "shipping_info",
+      "gap1": "&nbsp;",
+      "body": "order_details",
+      "gap2": "&nbsp;",
+      "bottomBody": "call_us",
+      "hotCategories": "hot_categories",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Shipping_address_problem",
+    "htmlschema": {
+      "headerText": "We have a question about your order -- we need to hear from you!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Shipping_address_problem_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "shipping_info",
+      "gap2": "&nbsp;",
+      "body": "payment_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "order_details",
+      "callUs": "call_us",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Shipping_confirmation_common",
+    "htmlschema": {
+      "headerText": "Heads-up -- your order is on its way!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Shipping_confirmation_common_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "shipping_info",
+      "gap2": "&nbsp;",
+      "body": "payment_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "order_details",
+      "gap4": "&nbsp;",
+      "thanks": "thanks",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Shipping_confirmation_DHL",
+    "htmlschema": {
+      "headerText": "Heads-up -- your order is on its way!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Shipping_confirmation_DHL_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "order_details",
+      "gap2": "&nbsp;",
+      "body": "shipping_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "payment_info",
+      "gap4": "&nbsp;",
+      "thanks": "thanks",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Shipping_confirmation_USPS",
+    "htmlschema": {
+      "headerText": "Heads-up -- your order is on its way!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Shipping_confirmation_USPS_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "order_details",
+      "gap2": "&nbsp;",
+      "body": "shipping_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "payment_info",
+      "gap4": "&nbsp;",
+      "thanks": "thanks",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Shipping_confirmation_FedEx",
+    "htmlschema": {
+      "headerText": "Heads-up -- your order is on its way!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Shipping_confirmation_FedEx_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "order_details",
+      "gap2": "&nbsp;",
+      "body": "shipping_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "payment_info",
+      "gap4": "&nbsp;",
+      "thanks": "thanks",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Shipping_confirmation_UPS",
+    "htmlschema": {
+      "headerText": "Heads-up -- your order is on its way!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Shipping_confirmation_UPS_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "order_details",
+      "gap2": "&nbsp;",
+      "body": "shipping_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "payment_info",
+      "gap4": "&nbsp;",
+      "thanks": "thanks",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+
+  {
+    "templateName": "BO_Shipping_confirmation_no_tracking",
+    "htmlschema": {
+      "headerText": "Heads-up -- your order is on its way!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Shipping_confirmation_no_tracking_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "shipping_info",
+      "gap2": "&nbsp;",
+      "body": "payment_info",
+      "gap3": "&nbsp;",
+      "bottomBody": "order_details",
+      "gap4": "&nbsp;",
+      "thanks": "thanks",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+
+  {
+    "templateName": "BO_Pickup_instruction",
+    "htmlschema": {
+      "headerText": "We have a question about your order -- we need to hear from you!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Pickup_instruction_topMessage",
+      "gap2": "&nbsp;",
+      "topBody": "receipt_link",
+      "gap3": "&nbsp;",
+      "body": "",
+      "bottomBody": "payment_info",
+      "gap5": "&nbsp;",
+      "callUs": "order_details",
+      "topFooter": "call_us",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Email_a_friend",
+    "htmlschema": {
+      "headerText": "We have a question about your order -- we need to hear from you!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "bottomHeader": "",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Email_a_friend_topMessage",
+      "gap2": "&nbsp;",
+      "topBody": "",
+      "body": "",
+      "bottomBody": "",
+      "callUs": "",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Test_Email",
+    "htmlschema": {
+      "headerText": "We have a question about your order -- we need to hear from you!",
+      "topHeader": "logo",
+      "header": "topMenu",
+      "gap": "&nbsp;",
+      "bottomHeader": "BO_Shipping_confirmation_FedEx_topMessage",
+      "gap1": "&nbsp;",
+      "topMessage": "billing_info",
+      "gap2": "&nbsp;",
+      "topBody": "call_us",
+      "gap3": "&nbsp;",
+      "body": "payment_info",
+      "gap4": "&nbsp;",
+      "bottomBody": "shipping_info",
+      "gap5": "&nbsp;",
+      "callUs": "receipt_link",
+      "gap6": "&nbsp;",
+      "hotCategories": "hot_categories",
+      "gap7": "&nbsp;",
+      "topFooter": "helpYelp",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
+    "templateName": "BO_Test_Email_1",
+    "htmlschema": {
+      "headerText": "We have a question about your order -- we need to hear from you!",
+      "topHeader": "logo"
+
+    }
+  }
+]

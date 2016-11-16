@@ -1,0 +1,15 @@
+Dear <f_name> <l_name>,
+
+First, I want to thank you for your business!!!
+
+Your pickup Order # is (**** +++++ PUT PICKUP ORDER# HERE +++++++ ***** )
+You have to provide this # to the representative at the pickup desk.
+
+The address for our warehouse where you will go to pickup your order is:
+
+************** ADDRESS GOES HERE ****************
+
+IF you need to make any changes to you order please call us at <rep_phone>. This is the only way. You will not be able to make changes at the warehouse, they have to be done by phone.
+
+You can view your order details and receipt by clicking on the link below:
+http://<store_url>/receipt.aspx?ID=<shopping_cart_ID>

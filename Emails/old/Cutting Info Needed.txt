@@ -1,0 +1,12 @@
+Hello <ship_f_name> <ship_l_name>
+<br><br>
+The item that you ordered is 12 Ft long, We have to cut it in order for it to be shipped by UPS/USPS, please email us cutting instructions, we can cut it in to multiple sections for easier shipping. You can reply to this email or contact us by calling <rep_phone>
+
+Please be advised that a one time $7.00 cutting fee will be added to your order.
+
+If you need this item at full length it will have to be shipped by common carrier as an over-sized item and charges may range anywhere from $125-$175. Please contact us to get freight estimate.
+
+<products_list>
+<br>
+Customer Service<br>
+<store_name>

@@ -1,0 +1,41 @@
+<tr>
+    <td  style="vertical-align: middle; text-align:left; font-family:Helvetica,Arial;">
+        <h3>Payment Info</h3>
+        <table style="width:100%; font-size:15px;">
+         	<tr style="background-color: #F2F2F2;" >
+        			<td style="padding:5px; font-weight: bold; width:40%">PO Number</td>
+        			<td style="padding:5px;" >{po}</td>
+        		</tr>
+        		<tr>
+        			<td style="padding:5px; font-weight: bold;">Your Purchase ID:</td>
+        			<td style="padding:5px;" itemprop="orderNumber">{company_code}-{total_ID}</td>
+        		</tr>
+        		<tr style="background-color: #F2F2F2;" itemprop="priceCurrency" content="USD">
+              <td style="padding:5px; font-weight: bold;">Sub Total:</td>
+        			<td style="padding:5px;">{sub_total}</td>
+        		</tr>
+        		<tr>
+        			<td style="padding:5px; font-weight: bold;">Handling Fee:</td>
+        			<td style="padding:5px;">{handling_fee}</td>
+        		</tr>
+        		<tr style="background-color: #F2F2F2;">
+        			<td style="padding:5px; font-weight: bold;">Shipping Charges:</td>
+        			<td style="padding:5px;">{shipping}</td>
+        		</tr>
+        		<tr>
+        			<td style="padding:5px; font-weight: bold;">Tax:</td>
+        			<td style="padding:5px;">{tax}</td>
+        		</tr>
+        		<tr style="background-color: #F2F2F2;">
+        			<td style="padding:5px; font-weight: bold;">Total:</td>
+        			<td style="padding:5px;"  itemprop="price">{total}</td>
+        		</tr>
+        </table>
+      </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; text-align:center; font-family:Helvetica,Arial; font-size:17px; padding:20px;">
+      Your credit card or bank statement will reflect this payment to
+"DK Hardware Supply."
+    </td>
+  </tr>
