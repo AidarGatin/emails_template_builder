@@ -112,6 +112,41 @@
 </tr>
 <tr><td style="padding:5px; color:#ABB7B7; font-family:Helvetica; font-size:13px;">&nbsp;</td></tr><tr>
     <td  style="vertical-align: middle; text-align:left; font-family:Helvetica,Arial;">
+        <h3>Billing Info</h3>
+        <table style="width:100%; font-size:15px;">
+         	<tr style="background-color: #F2F2F2;" >
+        			<td style="padding:5px; font-weight: bold; width:40%">Name</td>
+        			<td style="padding:5px;" >{f_name}</td>
+        		</tr>
+        		<tr>
+        			<td style="padding:5px; font-weight: bold;">Company</td>
+        			<td style="padding:5px;">{company}</td>
+        		</tr>
+            <tr style="background-color: #F2F2F2;">
+              <td style="padding:5px; font-weight: bold;" itemprop="deliveryAddress" itemscope itemtype="http://schema.org/PostalAddress">Address 1:</td>
+              <td style="padding:5px;" itemprop="streetAddress">{address1}</td>
+            </tr>
+            <tr >
+              <td style="padding:5px; font-weight: bold;">Address 2:</td>
+              <td style="padding:5px;">{address2}</td>
+            </tr>
+            <tr style="background-color: #F2F2F2;">
+              <td style="padding:5px; font-weight: bold;">City:</td>
+              <td style="padding:5px;"  itemprop="addressLocality">{city}</td>
+            </tr>
+            <tr >
+              <td style="padding:5px; font-weight: bold;">State/Province/Region:</td>
+              <td style="padding:5px;" itemprop="addressRegion">{state}</td>
+           </tr>
+            <tr style="background-color: #F2F2F2;">
+              <td style="padding:5px; font-weight: bold;">Zip/Postal Code:</td>
+              <td style="padding:5px;" itemprop="postalCode">{zip}</td>
+            </tr>
+        </table>
+      </td>
+  </tr>
+<tr><td style="padding:5px; color:#ABB7B7; font-family:Helvetica; font-size:13px;">&nbsp;</td></tr><tr>
+    <td  style="vertical-align: middle; text-align:left; font-family:Helvetica,Arial;">
         <h3>Payment Info</h3>
         <table style="width:100%; font-size:15px;">
          	<tr style="background-color: #F2F2F2;" >
