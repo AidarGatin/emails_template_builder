@@ -386,6 +386,27 @@
     }
   },
   {
+    "templateName": "BO_Quote_invoice",
+    "htmlschema": {
+      "headerText": "Hi! We have Your Quote request!",
+      "topHeader": "logo",
+      "header": "",
+      "bottomHeader": "",
+      "topMenu": "topMenu",
+      "gap": "&nbsp;",
+      "topMessage": "BO_Quote_invoice_topMessage",
+      "gap1": "&nbsp;",
+      "topBody": "shipping_info",
+      "gap2": "&nbsp;",
+      "body": "",
+      "bottomBody": "",
+      "hotCategories": "call_us",
+      "topFooter": "",
+      "footer": "contacts",
+      "bottomFooter": "quote"
+    }
+  },
+  {
     "templateName": "BO_Web_Quote_inquiry",
     "htmlschema": {
       "headerText": "Woo-hoo -- we got your quote request!",
